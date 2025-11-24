@@ -42,7 +42,7 @@ The Python script:
 
 ## 🔌 How to Run
 
-
+Hangman_game.py
 
 
 ## 🚀 Future Enhancements
