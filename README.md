@@ -1,5 +1,5 @@
-# Python_Based_Hangman_game
-🎮 Python Based Hangman Game
+
+#🎮 Python Based Hangman Game
 
 This project implements a classic Hangman word-guessing game using Python.
 The player must guess the hidden word one letter at a time. Each incorrect guess draws a new part of the hangman. The game ends when the word is guessed correctly or all chances are used.
